@@ -77,7 +77,6 @@ Built using **Python (Pandas, NumPy, Scikit-learn)** for model development and *
 
 ## 📂 Files Included
 - `Loan_Prediction_Model.ipynb` → ML model training and evaluation
-- `Loan_Approval_Dashboard.pbix` → Power BI interactive report
 - `loan_dataset.csv` → Cleaned dataset with predictions
 - `/images/` → Dashboard screenshots
 - `README.md` → This file
